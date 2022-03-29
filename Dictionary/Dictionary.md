@@ -76,6 +76,31 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 | **Working Group**         | It is a group of experts working together to achieve predefined objectives. The group formalize its objectives and goals in a formal document, the Working Group Charter.                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | **e-Vote**                | Electronic Vote.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
+<table>
+  <caption>Technical Terms</caption>
+  <tbody>
+    <tr>
+	<td><strong>Green by Software</strong></td>
+	<td>Using software to help achieve the sustainability goal of a specific domain or organization.</td>
+    </tr>
+    <tr>
+	<td><strong>Green in Software</strong></td>
+	<td>Optimizing software itself for better energy efficiency or reduced carbon emissions.</td>
+    </tr>
+    <tr>
+	<td><strong>Speedup</strong></td>
+	<td>The metric to measure the relative execution time of two programs.</td>
+    </tr>  
+    <tr>
+	<td><strong>Greenup</strong></td>
+	<td>The metric to measure the relative energy consumption of two programs. </td>
+    </tr>  
+    <tr>
+	<td><strong>Powerup</strong></td>
+	<td>The metric to measure the relative power consumption of two programs. </td>
+    </tr>  
+  </tbody>
+</table>
 
 ### Abbreviations
 
